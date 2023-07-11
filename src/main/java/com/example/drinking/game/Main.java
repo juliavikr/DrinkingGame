@@ -1,4 +1,4 @@
-package org.example;
+package com.example.drinking.game;
 
 public class Main {
   public static void main(String[] args) {

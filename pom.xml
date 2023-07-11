@@ -22,7 +22,7 @@
         <junit.jupiter.version>5.9.2</junit.jupiter.version>
         <javafx.version>19</javafx.version>
 
-        <application.main>org.example.Main</application.main>
+        <application.main>com.example.drinking.game.Main</application.main>
         <application.filename>DrinkingGame</application.filename>
     </properties>
 
